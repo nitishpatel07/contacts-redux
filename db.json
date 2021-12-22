@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Nitish",
+      "address": "Rourkela",
+      "email": "Nitish@gmail.com",
+      "contact": "9999999",
+      "id": 1
+    },
+    {
+      "name": "Nitin",
+      "address": "Delhi",
+      "email": "Nitin@gmail.com",
+      "contact": "88888888",
+      "id": 2
+    }
+  ]
+}
