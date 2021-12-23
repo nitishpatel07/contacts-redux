@@ -14,9 +14,16 @@ const userReducers = (state = initialState, action) => {
       };
     case types.DELETE_USER:
     case types.ADD_USER:
+    case types.UPDATE_USER:
       return {
         ...state,
       };
+    case types.GET_SINGLE_USER:
+      return {
+        ...state,
+        user: action.payload,
+      };
+
     default:
       return state;
   }
