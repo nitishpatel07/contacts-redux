@@ -4,4 +4,4 @@ This project was made with [React-redux hooks](https://github.com/facebook/creat
 
 ## Contacts-redux app
 
-### `start the buid`
+### `start the build`
